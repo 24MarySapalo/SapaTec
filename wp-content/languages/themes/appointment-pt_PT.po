@@ -1,0 +1,591 @@
+# Translation of Themes - Appointment in Portuguese (Portugal)
+# This file is distributed under the same license as the Themes - Appointment package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-04-01 16:11:46+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.0-alpha.3\n"
+"Language: pt\n"
+"Project-Id-Version: Themes - Appointment\n"
+
+#. Description of the theme
+#, gp-priority: high
+msgid "Appointment WordPress Theme is a fully responsive and translation-ready theme that allows you to create stunning blogs and websites. The theme is well suited for companies, law firms, travel, photography, recipes, design, art, personal and any other creative websites and blogs. The theme is developed using Bootstrap 3 that makes it mobile and tablet friendly. It has various options in the WordPress Customizer to change the look of the theme. The theme customizer can be used to add your own custom header, favicon, logo, slides, services, callout and much more. In the premium version you can add different type of slides like video, aside, quote, status and standard, all of which have a different HTML look. There are a number of in-built widgets; sidebars with support for WPML, the Polylang translation WordPress plugin and Contact Form 7; a portfolio template, contact us, portfolio column layouts and many sections for business using the Homepage template. Appointment theme comes with various locales. Just navigate to Appearance / Customize to start customizing."
+msgstr "O tema Appointment para WordPress é um tema responsivo e pronto para tradução que lhe permite criar sites e blogs impressionantes. O tema é apropriado para empresas, escritórios de advogados, viagens, fotografia, receitas, design, blogs pessoais e qualquer tipo de sites criativos. O tema é desenvolvido com Bootstrap 3 que o torna adequado para dispositivos móveis e tablets. Tem várias opções no personalizador do WordPress que alteram a aparência do tema. O personalizador pode ser usado para adicionar o seu próprio cabeçalho, favicon, logótipo, sliders, serviços, chamada para acção e muito mais. Na versão premium poderá adicionar diferentes tipos de sliders, tais como vídeos, notas, citações, estados e standard, todos têm um HTML diferente. Inclui diversos widgets e barras laterais com suporte para WPML, Polylang e Contact Form 7, modelos de portfólio, contacto, layouts de colunas para portfólio e várias secções para empresas através do modelo de página inicial. O tema Appointment inclui diversos idiomas. Pode começar a personalizar o seu tema em Apresentação > Personalizar."
+
+#. Theme Name of the theme
+#, gp-priority: high
+msgid "Appointment"
+msgstr "Appointment"
+
+#: functions/breadcrumbs/breadcrumbs.php:29
+msgid "Archive by category"
+msgstr "Arquivo por categoria"
+
+#: functions/breadcrumbs/breadcrumbs.php:93
+msgid "Posts tagged"
+msgstr "Conteúdos com etiquetas"
+
+#: functions/breadcrumbs/breadcrumbs.php:98
+msgid "Articles posted by"
+msgstr "Artigos publicados por"
+
+#: functions/widgets/appointment_info_widget.php:86
+msgid "Link to get FontAwesome icon"
+msgstr "Ligação para obter o ícone FontAwesome"
+
+#: admin/tab-pages/useful_plugins.php:61
+msgid "This section is often used to display Latest News, Announcements and Events type content."
+msgstr "Esta secção é utilizada com frequência para mostrar as últimas notícias, anúncios ou eventos."
+
+#: admin/tab-pages/useful_plugins.php:30
+msgid "There are beautifully styled navigation/menus in the Appointment theme. You can make multi level menus, which means you can create sub menus."
+msgstr "O tema Appointment tem menus de navegação bem estilizados. Pode criar menus com múltiplos níveis, o que significa que pode criar submenus."
+
+#: admin/tab-pages/useful_plugins.php:46
+msgid "You can display any number of Services on the Homepage, with thousands of FontAwesome icons available. You can also display a set of services on a separate page by using the service-related page templates."
+msgstr "Pode mostrar qualquer quantidade de serviços na página inicial, pode utilizar todos os ícones disponível da biblioteca FontAwesome. Pode também mostrar um conjunto de serviços numa página separada, utilizando o modelo de serviços apropriado."
+
+#: admin/tab-pages/useful_plugins.php:10
+msgid "Why Upgrade to Pro?"
+msgstr "Porquê actualizar para Pro?"
+
+#: admin/tab-pages/free_vs_pro.php:68
+msgid "With the help of WPML, you can make a Multilingual Website."
+msgstr "Com a ajuda do WPML, pode criar um site multilingue."
+
+#: category.php:9
+msgid "Category Archive"
+msgstr "Arquivo da categoria"
+
+#: functions/widgets/appointment_info_widget.php:14
+msgid "WBR : Info Widget"
+msgstr "WBR:  Widget de informações"
+
+#: functions/customizer/customizer-copyright.php:77
+msgid "Hide footer social icons"
+msgstr "Esconder ícones de redes sociais do rodapé"
+
+#: tag.php:11
+msgid "Tag Archive"
+msgstr "Arquivo de etiquetas"
+
+#: functions/customizer/customizer_theme_style.php:24
+msgid "Enable custom color skin"
+msgstr "Personalizar cor do tema"
+
+#: functions/widgets/sidebars.php:9 functions/widgets/sidebars.php:11
+msgid "Sidebar widget area"
+msgstr "Widgets da barra lateral"
+
+#: functions/customizer/customizer_typography.php:1182
+msgid "Button Text"
+msgstr "Texto do botão"
+
+#: functions/customizer/customizer-copyright.php:112
+#: functions/customizer/customizer-copyright.php:147
+#: functions/customizer/customizer-copyright.php:181
+#: functions/customizer/customizer-copyright.php:215
+#: functions/customizer/customizer-header.php:75
+#: functions/customizer/customizer-header.php:112
+#: functions/customizer/customizer-header.php:147
+msgid "Open link in new tab"
+msgstr "Abrir ligação num novo separador"
+
+#: comments.php:90
+msgid "Logout"
+msgstr "Terminar sessão"
+
+#: admin/tab-pages/free_vs_pro.php:84
+msgid "Slider [Unlimited Slides], Widget Area Below Slider, Services [6 Services], Callout Section, Latest News"
+msgstr "Slider [slides ilimitados], área de widgets por baixo do slider, serviços [6 serviços], secção de chamada para acção, últimas notícias"
+
+#: admin/tab-pages/free_vs_pro.php:97
+msgid "WordPress Support Forum"
+msgstr "Fórum de suporte do WordPress"
+
+#: admin/tab-pages/free_vs_pro.php:110
+msgid "About Us, Services, Portfolio, Blog Left & Right Sidebars, Blog Full Width, Page Full Width, Contact Page and much more."
+msgstr "Sobre nós, serviços, portfólio, blog com barras laterais à esquerda e à direita, blog a toda a largura, página a toda a largura, página de contactos e muito mais."
+
+#: admin/tab-pages/free_vs_pro.php:123
+msgid "Webriti Support Forum"
+msgstr "Fórum de suporte da Webriti"
+
+#: admin/tab-pages/free_vs_pro.php:85
+msgid "Homepage Template and Full-Width Page Template"
+msgstr "Modelos de página inicial e de largura total"
+
+#: admin/tab-pages/useful_plugins.php:83
+msgid "We provide good knowledgebase articles which will help you to create effective websites. You can visit these articles via our <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>Help Section</a>."
+msgstr "Temos uma boa base de conhecimento que o poderá ajudar a criar sites eficientes. Pode visitar estes artigos através da nossa <a href='https://webriti.com/help/category/themes/appointment/' target='_blank'>Secção de ajuda</a>."
+
+#: author.php:12
+msgid "Author Archive"
+msgstr "Arquivo do autor"
+
+#: comments.php:25
+msgid "Posted on"
+msgstr "Publicado em"
+
+#: comments.php:70
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "Tem de ter a <a href=\"%s\">sessão iniciada</a> para publicar um comentário."
+
+#: comments.php:77
+msgid "Name"
+msgstr "Nome"
+
+#: 404.php:9 functions/breadcrumbs/breadcrumbs.php:101 index-banner.php:11
+msgid "Error 404"
+msgstr "Erro 404"
+
+#: comments.php:89
+msgid "Leave your message"
+msgstr "Deixe a sua mensagem"
+
+#: admin/inc/class-webriti-about-page.php:325
+msgid "CREATE TRUSTWORTHY WEBSITES"
+msgstr "CRIE SITES DE CONFIANÇA"
+
+#: admin/tab-pages/emailcourse.php:21
+msgid "Think of your website as a hardworking salesman who works 24/7 and never asks for a raise!"
+msgstr "Pense no seu site como um vendedor empenhado que trabalha 24/7 e que nunca pede um aumento!"
+
+#: admin/tab-pages/emailcourse.php:24
+msgid "In this email course I deliver 4 highly actionable tips on how you can build a website which is trustworthy and which, in turn, brings more business to you."
+msgstr "Neste curso por email fornecemos 4 dicas práticas sobre como criar um site de confiança, que naturalmente lhe trará mais negócios."
+
+#: admin/tab-pages/emailcourse.php:31
+msgid "JOIN COURSE"
+msgstr "INSCREVER NO CURSO"
+
+#: admin/tab-pages/emailcourse.php:17
+msgid "A website exists for one and ONLY one reason:"
+msgstr "Um site existe por uma e apenas UMA razão:"
+
+#: admin/tab-pages/emailcourse.php:18
+msgid "To bring you more business."
+msgstr "Aumentar os seus negócios."
+
+#: admin/tab-pages/getting-started.php:78
+msgid "Premium Theme Details"
+msgstr "Detalhes do tema premium"
+
+#: admin/tab-pages/useful_plugins.php:60
+msgid "Latest News Section"
+msgstr "Secção de últimas notícias"
+
+#: admin/tab-pages/useful_plugins.php:82
+msgid "Well Documented"
+msgstr "Bem documentado"
+
+#: admin/tab-pages/useful_plugins.php:97
+msgid "Translation Ready"
+msgstr "Pronto para tradução"
+
+#: admin/inc/class-webriti-about-page.php:106
+msgid "Get started with Appointment Lite"
+msgstr "Começar com o Appointment Lite"
+
+#: admin/inc/class-webriti-about-page.php:287
+msgid "Getting Started"
+msgstr "Começar"
+
+#: admin/tab-pages/free_vs_pro.php:12
+msgid "Features"
+msgstr "Funcionalidades"
+
+#: admin/tab-pages/free_vs_pro.php:20
+msgid "Frontpage Sections"
+msgstr "Secções da página inicial"
+
+#: admin/tab-pages/free_vs_pro.php:51
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: admin/tab-pages/getting-started.php:58
+msgid "Useful Links"
+msgstr "Ligações úteis"
+
+#: admin/tab-pages/free_vs_pro.php:71
+msgid "Support Forum"
+msgstr "Fórum de suporte"
+
+#: admin/tab-pages/free_vs_pro.php:131
+msgid "Get Appointment PRO Now!"
+msgstr "Obtenha o Appointment PRO agora!"
+
+#: admin/tab-pages/getting-started.php:64
+msgid "Lite Demo"
+msgstr "Demonstração Lite"
+
+#: admin/tab-pages/getting-started.php:74
+msgid "Your feedback is valuable to us"
+msgstr "O seu feedback é muito importante para nós"
+
+#: admin/tab-pages/useful_plugins.php:21
+msgid "Top Header Section"
+msgstr "Secção superior ao cabeçalho"
+
+#: admin/tab-pages/useful_plugins.php:29
+msgid "Multi Level Navigation"
+msgstr "Navegação com múltiplos níveis"
+
+#: admin/tab-pages/useful_plugins.php:44
+msgid "Service Features"
+msgstr "Funcionalidade de serviços"
+
+#: admin/tab-pages/useful_plugins.php:52
+msgid "Portfolio Features"
+msgstr "Funcionalidade de portfólio"
+
+#: admin/tab-pages/useful_plugins.php:67
+msgid "Testimonial Feature"
+msgstr "Funcionalidade de testemunhos"
+
+#: admin/tab-pages/free_vs_pro.php:21
+msgid "You will find a number of sections on the front page."
+msgstr "Estão disponíveis diversas secções na página inicial."
+
+#: admin/tab-pages/free_vs_pro.php:24
+msgid "Page Templates Support"
+msgstr "Suporte para modelos de página"
+
+#: admin/tab-pages/free_vs_pro.php:28
+msgid "Mobile Friendly"
+msgstr "Adequado para dispositivos móveis"
+
+#: admin/tab-pages/free_vs_pro.php:29
+msgid "Responsive layout in all devices"
+msgstr "Layouts responsivos em todos os dispositivos"
+
+#: admin/tab-pages/free_vs_pro.php:39 admin/tab-pages/useful_plugins.php:75
+msgid "Multiple Color Schemes"
+msgstr "Múltiplas paletas de cores"
+
+#: admin/tab-pages/free_vs_pro.php:48
+msgid "Display your Shop and Business location on your website using Google Maps."
+msgstr "Mostre a localização da sua loja e do seu negócio no seu site através do Google Maps."
+
+#: admin/tab-pages/free_vs_pro.php:55
+msgid "About Us Page"
+msgstr "Página Sobre nós"
+
+#: admin/tab-pages/free_vs_pro.php:59
+msgid "Services Page"
+msgstr "Página de serviços"
+
+#: admin/tab-pages/free_vs_pro.php:67
+msgid "WPML / Polylang Support"
+msgstr "Suporte para WPML e Polylang"
+
+#: admin/tab-pages/free_vs_pro.php:72
+msgid "Get instant 24/7 support on our Support Forum."
+msgstr "Obtenha suporte instantâneo 24/7 no nosso fórum de suporte."
+
+#: admin/tab-pages/useful_plugins.php:22
+msgid "In the premium version you will get a top header sidebar area where you can use any widget - all the widgets are styled. We have created a number of widgets in the theme which you can use here. Specifically, use the Appointment Info Widget for showing your email ID, contact number or any other info of your choice."
+msgstr "A versão premium inclui uma barra superior ao cabeçalho onde poderá utilizar qualquer widget - todos os widgets são estilizados. Incluímos no tema alguns widgets que poderão ser utilizados aqui. Mais especificamente, use o Widget de informações do Appointment para mostrar o seu email, o seu telefone de contacto ou qualquer outra informação à sua escolha."
+
+#: admin/tab-pages/useful_plugins.php:36
+msgid "Caption Slider"
+msgstr "Slider"
+
+#: admin/tab-pages/useful_plugins.php:37
+msgid "You can create unlimited slides which you can control via the settings in Appearance >> Customize. The slider supports various post formats like Standard, Aside, Quote, Chat and Video."
+msgstr "Pode criar slides ilimitados configuráveis através de Apresentação > Personalizar. O slider suporta vários formatos de conteúdo, tais como standard, nota, citação, conversa e vídeo."
+
+#: admin/tab-pages/useful_plugins.php:53
+msgid "Showcase any number of projects. This theme provides you with an option to create 2, 3, 4 column grid layouts by using the portfolio 2, 3, 4 column layout templates, respectively. If you have a number of projects to present then these templates are the answer. You can also create categorized portfolios, which display all the portfolio categories in a single place. In fact, we have coded this theme so that you can create any number of different portfolios."
+msgstr "Apresente qualquer quantidade de projectos. Este tema permite-lhe criar layouts de 2, 3 ou 4 colunas, através dos modelos de layout de portfólio de 2, 3 ou 4 colunas, respectivamente. Se tem alguns projectos para apresentar, então estes modelos são para si. Pode também criar portfólios por categoria, que mostrarão todas as categorias de portfólio num único lugar. O tema foi programado de modo a que possa mostrar qualquer quantidade de diferentes portfólios."
+
+#: admin/tab-pages/useful_plugins.php:68
+msgid "Testimonials are a powerful way to gain credibility. You can display testimonials with a carousel effect."
+msgstr "Os testemunhos são uma forma poderosa de ganhar credibilidade. pode mostrar testemunhos com um efeito de carrossel."
+
+#: admin/tab-pages/useful_plugins.php:76
+msgid "You will get 13 preset color schemes and you can even create your own favorite color schemes using the Custom Color Setting in the Customizer."
+msgstr "Irá obter 13 paletas de cores e ainda poderá criar as suas paletas de cores favoritas através das definições de cores no personalizador."
+
+#: admin/tab-pages/useful_plugins.php:91
+msgid "Building a website with our custom widgets is very simple. Just place them inside the available sidebar or even in the content."
+msgstr "Criar um site com os nossos widgets personalizados é muito simples. Insira-os na barra lateral disponível ou mesmo nos conteúdos."
+
+#: admin/tab-pages/useful_plugins.php:98
+msgid "The theme supports yet another famous plugin: WPML. With the help of this support you can create a website available in multiple languages."
+msgstr "O tema suporta o famoso plugin WPML. Deste modo poderá criar um site disponível em múltiplos idiomas."
+
+#: admin/tab-pages/free_vs_pro.php:25
+msgid "Various Page Templates included in the Appointment Premium Theme"
+msgstr "Vários modelos de página incluídos na versão premium do tema Appointment"
+
+#: admin/tab-pages/free_vs_pro.php:32
+msgid "Contact Form Support"
+msgstr "Suporte para formulário de contacto"
+
+#: admin/tab-pages/free_vs_pro.php:36
+msgid "This feature allows you to rename the custom post type slug names in the URL."
+msgstr "Esta funcionalidade permite-lhe renomear as slugs dos URL dos tipos de conteúdo personalizado."
+
+#: admin/tab-pages/free_vs_pro.php:40
+msgid "Enjoy using the 13 preset color schemes. You can also create custom skins without adding any code."
+msgstr "Aproveite as 13 paletas de cores pré-definidas. Pode também criar novas paletas de cores personalizadas sem adicionar qualquer código."
+
+#: admin/tab-pages/free_vs_pro.php:52
+msgid "Present your project/portfolio collection with 2 column, 3 column and 4 column layouts. You can also display your project/portfolio by category."
+msgstr "Apresente o seu portfólio de projectos em layouts de 2, 3 ou 4 colunas. Pode também mostrar os seus projectos por categoria."
+
+#: admin/tab-pages/free_vs_pro.php:56
+msgid "Show team members, your clients and custom content added in the WordPress editor."
+msgstr "Apresente os membros da sua equipa, os seus clientes e conteúdo personalizado adicionado através do editor do WordPress."
+
+#: admin/tab-pages/free_vs_pro.php:60
+msgid "Show all your services in a single place."
+msgstr "Apresente todos os seus serviços num único lugar."
+
+#: admin/tab-pages/free_vs_pro.php:63
+msgid "Testimonial / Review Section"
+msgstr "Secção de testemunhos"
+
+#: admin/tab-pages/free_vs_pro.php:64
+msgid "Show user feedback on the Homepage and Services page."
+msgstr "Mostre o feedback dos seus utilizadores na página inicial e na página dos serviços."
+
+#: admin/tab-pages/free_vs_pro.php:35 admin/tab-pages/useful_plugins.php:14
+msgid "SEO Friendly URL"
+msgstr "URL optimizado para SEO"
+
+#: admin/tab-pages/useful_plugins.php:15
+msgid "This feature helps you to rename the slug name from the URL, allowing you to make it SEO friendly."
+msgstr "Esta funcionalidade ajuda-o a renomear a slug do URL, para que esteja optimizado para SEO."
+
+#: admin/tab-pages/free_vs_pro.php:47
+msgid "Google Maps"
+msgstr "Google Maps"
+
+#: functions/widgets/sidebars.php:37 functions/widgets/sidebars.php:39
+msgid "Center widget area below slider"
+msgstr "Widgets ao centro por baixo do slider"
+
+#: functions/widgets/sidebars.php:28 functions/widgets/sidebars.php:30
+msgid "Right widget area below slider"
+msgstr "Widgets à direita por baixo do slider"
+
+#. Template Name of the theme
+msgid "Fullwidth"
+msgstr "Largura total"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Página inicial"
+
+#: single.php:19
+msgid "About the author"
+msgstr "Sobre o autor"
+
+#: searchform.php:2
+msgid "Search"
+msgstr "Pesquisar"
+
+#: search.php:17
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Desculpe, mas nada correspondeu aos seus critérios de pesquisa. Por favor, volte a tentar com palavras-chave diferentes."
+
+#: search.php:15
+msgid "Nothing Found"
+msgstr "Não foi encontrado nada"
+
+#: functions.php:153
+msgid "Primary Menu"
+msgstr "Menu principal"
+
+#: functions/widgets/sidebars.php:18 functions/widgets/sidebars.php:20
+msgid "Footer widget area"
+msgstr "Widgets do rodapé"
+
+#: functions/widgets/appointment_info_widget.php:84
+msgid "FontAwesome icon"
+msgstr "Ícone do FontAwesome"
+
+#: functions/customizer/customizer-news.php:86
+#: functions/widgets/appointment_info_widget.php:88
+msgid "Description"
+msgstr "Descrição"
+
+#: functions/customizer/customizer-news.php:71
+#: functions/customizer/customizer_typography.php:477
+#: functions/widgets/appointment_info_widget.php:81
+msgid "Title"
+msgstr "Título"
+
+#: functions/widgets/appointment_info_widget.php:17
+msgid "Appointment theme information widget"
+msgstr "Widget de informações do tema Appointment."
+
+#: child_theme_compatible.php:26 functions/breadcrumbs/breadcrumbs.php:6
+#: functions/menu/default_menu_walker.php:20 index-banner.php:19
+msgid "Home"
+msgstr "Início"
+
+#: appointment_theme_setup_data.php:29
+msgid "slide"
+msgstr "Deslizar"
+
+#: appointment_theme_setup_data.php:28
+msgid "Uncategorized"
+msgstr "Sem categoria"
+
+#: functions/customizer/customizer-pro-feature.php:65
+msgid "UPGRADE TO PRO"
+msgstr "ACTUALIZAR PARA PRO"
+
+#: functions/customizer/customizer-copyright.php:47
+msgid "Hide copyright text"
+msgstr "Esconder texto de copyright"
+
+#: functions/customizer/customizer-copyright.php:56
+msgid "Social Links"
+msgstr "Ligações de redes sociais"
+
+#: functions/customizer/customizer-copyright.php:164
+#: functions/customizer/customizer-header.php:129
+msgid "LinkedIn URL"
+msgstr "URL do LinkedIn"
+
+#: functions/customizer/customizer-copyright.php:198
+msgid "Skype URL"
+msgstr "URL do Skype"
+
+#: functions/customizer/customizer-copyright.php:130
+#: functions/customizer/customizer-header.php:94
+msgid "Twitter URL"
+msgstr "URL do Twitter"
+
+#: functions/customizer/customizer-copyright.php:95
+#: functions/customizer/customizer-header.php:58
+msgid "Facebook URL"
+msgstr "URL do Facebook"
+
+#: functions.php:204 functions/breadcrumbs/breadcrumbs.php:106
+#: functions/breadcrumbs/breadcrumbs.php:112
+msgid "Page"
+msgstr "Página"
+
+#: functions/template-tag.php:23 index-news.php:61
+msgid "By"
+msgstr "Por"
+
+#: content.php:17 functions.php:229 functions.php:245
+msgid "Read More"
+msgstr "Ler mais"
+
+#: comments.php:95
+msgid "Leave a Reply"
+msgstr "Deixar uma resposta"
+
+#: comments.php:92
+msgid "Send Message"
+msgstr "Enviar mensagem"
+
+#: comments.php:90
+msgid "Logged in as"
+msgstr "Sessão iniciada como"
+
+#: comments.php:90
+msgid "Logout from this Account"
+msgstr "Terminar sessão desta conta"
+
+#: comments.php:78
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Os comentários estão fechados."
+
+#: comments.php:57
+msgid "Newer Comments &rarr;"
+msgstr "Comentários mais recentes &rarr;"
+
+#: comments.php:56
+msgid "&larr; Older Comments"
+msgstr "&larr; Comentários mais antigos"
+
+#: comments.php:55
+msgid "Comment navigation"
+msgstr "Navegação de comentários"
+
+#: comments.php:48
+msgid "No Comments so far"
+msgstr "Sem comentários"
+
+#: comments.php:48
+msgid "1 Comment so far"
+msgstr "1 comentário"
+
+#: comments.php:48
+msgid "Comments so far"
+msgstr "Comentários"
+
+#: comments.php:33
+msgid "Your comment is awaiting moderation."
+msgstr "O seu comentário aguarda moderação."
+
+#: comments.php:30
+msgid "Edit"
+msgstr "Editar"
+
+#: comments.php:13
+msgid "Reply"
+msgstr "Responder"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Este conteúdo está protegido por senha. Introduza a senha para ver os comentários."
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Arquivo diário"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "Arquivo mensal"
+
+#: archive.php:17
+msgid "Yearly Archive"
+msgstr "Arquivo anual"
+
+#: archive.php:21
+msgid "Blog Archive"
+msgstr "Arquivo do blog"
+
+#: 404.php:12
+msgid "Go Back"
+msgstr "Voltar"
+
+#: 404.php:10
+msgid "Oops! Page not found"
+msgstr "Ups! Página não encontrada"
+
+#: 404.php:11
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "Desculpe, mas a página que procura não existe."
+
+#. Author URI of the theme
+#, gp-priority: low
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Author of the theme
+#, gp-priority: low
+msgid "Webriti"
+msgstr "Webriti"
+
+#. Theme URI of the theme
+#, gp-priority: low
+msgid "https://webriti.com/appointment-wordpress-theme-1/"
+msgstr "https://webriti.com/appointment-wordpress-theme-1/"
